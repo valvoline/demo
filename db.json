@@ -19,19 +19,19 @@
     {
       "id": 0,
       "titolo": "Titolo news",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat tempus leo, eget scelerisque nibh condimentum at. Sed tempus turpis nisl, quis rhoncus lacus finibus id. Curabitur suscipit tincidunt fringilla. Nam dictum risus vitae condimentum convallis. Sed posuere luctus dolor, eget ullamcorper dui. Curabitur vestibulum leo eu dui vulputate pellentesque.",
+      "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat tempus leo, eget scelerisque nibh condimentum at. Sed tempus turpis nisl, quis rhoncus lacus finibus id. Curabitur suscipit tincidunt fringilla. Nam dictum risus vitae condimentum convallis. Sed posuere luctus dolor, eget ullamcorper dui. Curabitur vestibulum leo eu dui vulputate pellentesque.",
+      "icon": 0
+    },
+    {
+      "id": 1,
+      "titolo": "Titolo news 2",
+      "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat tempus leo, eget scelerisque nibh condimentum at. Sed tempus turpis nisl, quis rhoncus lacus finibus id. Curabitur suscipit tincidunt fringilla. Nam dictum risus vitae condimentum convallis. Sed posuere luctus dolor, eget ullamcorper dui. Curabitur vestibulum leo eu dui vulputate pellentesque.",
       "icon": 1
     },
     {
       "id": 1,
       "titolo": "Titolo news 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat tempus leo, eget scelerisque nibh condimentum at. Sed tempus turpis nisl, quis rhoncus lacus finibus id. Curabitur suscipit tincidunt fringilla. Nam dictum risus vitae condimentum convallis. Sed posuere luctus dolor, eget ullamcorper dui. Curabitur vestibulum leo eu dui vulputate pellentesque.",
-      "icon": 2
-    },
-    {
-      "id": 1,
-      "titolo": "Titolo news 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat tempus leo, eget scelerisque nibh condimentum at. Sed tempus turpis nisl, quis rhoncus lacus finibus id. Curabitur suscipit tincidunt fringilla. Nam dictum risus vitae condimentum convallis. Sed posuere luctus dolor, eget ullamcorper dui. Curabitur vestibulum leo eu dui vulputate pellentesque.",
+      "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse placerat tempus leo, eget scelerisque nibh condimentum at. Sed tempus turpis nisl, quis rhoncus lacus finibus id. Curabitur suscipit tincidunt fringilla. Nam dictum risus vitae condimentum convallis. Sed posuere luctus dolor, eget ullamcorper dui. Curabitur vestibulum leo eu dui vulputate pellentesque.",
       "icon": 2
     }
   ],

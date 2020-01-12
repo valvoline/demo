@@ -3,16 +3,14 @@
     {
       "username": "admin",
       "password": "admin",
-      "response": {
-        "level": 0
-      }
+      "token" : "481967c76174e47866923616caa9394c336e32f8",
+      "level": 0
     },
     {
       "username": "user",
       "password": "user",
-      "response": {
-        "level": 1
-      }
+      "token" : "411967c76174e47866923616caa9394c336e32f8",
+      "level": 1
     }
   ],
   "news" : [
